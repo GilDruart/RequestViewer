@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Ashley-Oliver-s-workspace-v2o60o.us-east-1.xata.sh/db/GDR",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
