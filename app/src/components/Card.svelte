@@ -10,6 +10,7 @@
             <h5 class="card-title">{Title}</h5>
             <h6 class="card-text">{Artist}</h6>
             <p class="card-text">{Album}</p>
+            <p class="card-text">{Minutes}'{Seconds.toString().padStart(2,0)}"</p>
             <a href="{DiscogRef}" class="btn btn-primary">Discogs</a>
             <a href="{SpotifyRef}" class="btn btn-info">Spotify</a>
             

@@ -26,6 +26,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@xata.io/client": "^0.24.2"
+		"@xata.io/client": "^0.24.2",
+		"dotenv": "^16.3.1"
 	}
 }

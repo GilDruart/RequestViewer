@@ -37,12 +37,11 @@ You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
 
-
 ## Steps
 
-From [here](https://kit.svelte.dev/docs/creating-a-project) 
+From [here](https://kit.svelte.dev/docs/creating-a-project)
 
-```
+```shell
 pnpm create svelte@latest app
 cd app
 pnpm install
@@ -54,7 +53,10 @@ pnpm install
 
 ## ToDo/Issues
 
-1. Fix up xata.js to properly import api key
-2. Add bootstrap
-3. Properly repo it all
-4. Filter on Status
+1. ~~Include time on Cards~~
+1. ~~Fix up xata.js to properly import api key~~
+1. ~~Add bootstrap~~
+1. ~~Properly repo it all~~
+1. ~~Filter on Status~~
+1. Read up on how to deploy to netlify
+1. Deploy to netlify
