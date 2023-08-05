@@ -1,4 +1,4 @@
-import { getXataClient } from "./src/xata"
+import { getXataClient } from "/src/xata"
 const client = getXataClient()
 
 export const load = (async () => {

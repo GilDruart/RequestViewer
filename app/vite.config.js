@@ -10,5 +10,12 @@ export default defineConfig({
 				additionalData: '@use "src/variables.scss" as *;'
 			}
 		}
-	}
+	},
+
+	server: {
+		fs: {
+		  // Allow serving files from one level up to the project root
+		  allow: ['..', 'node_modules'],
+		},
+	  }
 });
