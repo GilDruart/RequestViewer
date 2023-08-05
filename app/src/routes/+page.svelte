@@ -4,7 +4,7 @@
 </script>
 
 <main>
-<h1 class="text-center">Requests for &lt;month&gt;</h1>
+<h1 class="text-center">Gil's Open Requests</h1>
 {#each data.requests as request }
     <Card {request} />
 {/each}
